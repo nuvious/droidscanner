@@ -54,6 +54,8 @@ Archived copies of the scan are available in the `docs` directory ([details](doc
 [behavior](docs\VirusTotal-Behavior.pdf), [detection](docs\VirusTotal-Detection.pdf),
 [relations](docs\VirusTotal-Relations.pdf)).
 
+![VirusTotal scan](docs/VirusTotalScan.png)
+
 ## Reference
 
 [1]D. Cheeseman, “Google Code Archive - droidscanner,” code.google.com, Apr. 18, 2010.
